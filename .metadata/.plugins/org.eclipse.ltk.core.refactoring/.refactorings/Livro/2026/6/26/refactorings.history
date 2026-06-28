@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;capitulo5.AutoPolicy&apos; to &apos;Questao5p30&apos;&#x0D;&#x0A;- Original project: &apos;Livro&apos;&#x0D;&#x0A;- Original element: &apos;capitulo5.AutoPolicy&apos;&#x0D;&#x0A;- Renamed element: &apos;capitulo5.Questao5p30&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AutoPolicy&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;capitulo5{AutoPolicy.java[AutoPolicy" matchStrategy="1" name="Questao5p30" qualified="false" references="true" similarDeclarations="false" stamp="1782000697994" textual="false" version="1.0"/>
-</session>

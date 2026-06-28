@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;currentWorldPopularion&apos; in &apos;ExercicioCapitulo4.Questao4p39.main(...)&apos; to &apos;currentWorldPopulation&apos;&#x0D;&#x0A;- Original project: &apos;Livro&apos;&#x0D;&#x0A;- Original element: &apos;ExercicioCapitulo4.Questao4p39.main(String[]).currentWorldPopularion&apos;&#x0D;&#x0A;- Renamed element: &apos;currentWorldPopularion&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;currentWorldPopularion&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ExercicioCapitulo4{Questao4p39.java[Questao4p39~main~\[QString;@currentWorldPopularion!622!657!629!650!D!0!false" name="currentWorldPopulation" references="true" stamp="1778423456107" version="1.0"/>
-</session>
